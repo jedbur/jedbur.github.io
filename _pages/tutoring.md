@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /tutoring/
+title: Tutoring
+#have a line break in the description: 
+description: Outside of my research at the University of Cambridge, I tutor Mathematics & Physics. <br> <i> Currently available for booking! </i> 
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
