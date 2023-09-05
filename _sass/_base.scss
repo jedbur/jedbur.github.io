@@ -18,7 +18,23 @@ span,
 strong {
   color: var(--global-text-color);
 }
-
+body {
+  font-family: 'Figtree', sans-serif;
+}
+h2 {
+  font-family: 'Figtree ', sans-serif;
+}
+post-header{
+  font-family: 'Figtree ', sans-serif;
+  font-size: 1.2rem;
+}
+// The above sets the font colours and texts
+// some fonts: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+//font-family: 'Chakra Petch', sans-serif;
+//font-family: 'Didact Gothic', sans-serif;
+//font-family: 'Figtree', sans-serif;
+//font-family: 'Outfit', sans-serif;
+//font-family: 'Urbanist', sans-serif;
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -120,7 +136,9 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Figtree", sans-serif;
+    font-weight: bold;  
+    font-size: 0.9rem;
 
     p {
       display: inline-block;
@@ -171,6 +189,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-family: "Figtree", sans-serif;
 }
 
 .navbar .dropdown-menu {
@@ -202,12 +221,33 @@ blockquote {
 .navbar.navbar-light {
   a {
     &:hover {
-      text-decoration: none;
+      color: var(--global-hover-color);
     }
   }
+  // The above and below changes add a hover effect to the navbar-brand
+  // .navbar-brand-active is currently not in use
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-size: 2.3rem;
+    padding: .3rem 0;
+    font-weight: 700!important;
+    font-family: "Figtree", sans-serif;
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+
+  .navbar-brand.active {
+    background-color: inherit;
+    font-weight: bolder;
+    color: var(--global-theme-color);
+    font-size: 1.8rem;
+    padding: .2rem 0;
+    font-weight: 600!important;
+    &:hover {
+      color: var(--global-hover-color);
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -424,6 +464,7 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  font-family: "Figtree", sans-serif;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }

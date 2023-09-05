@@ -6,25 +6,37 @@ subtitle: PhD Student at the <a href='https://www.qi.phy.cam.ac.uk'>University o
 
 profile:
   align: right
-  image: bear.jpeg
-  image_circular: true # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: false # crops the image to make it circular
   address: >
     <div align="center">
-    <p>Quantum Information Group</p>
     <p> Cavendish Laboratory </p>
     <p>JJ Thompson Avenue </p>
     <p>CB3 0HE, Cambridge UK</p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+
     </div>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Test test test test test
+I am a 2nd year PhD Student in the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk) at the University of Cambridge, working in collaboration with Dr Sergii Strelchuk at DAMPT. My supervisor is Professor Crispin Barnes. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My main interests include Quantum Benchmarking and Group-Theoretic methods in Quantum Computing. In particular, I am currently researching lightweight algorithms for calculating gate fidelities on near-term quantum devices. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I was born in Krakow, and grew up in the UK. Prior to my PhD I attended Brasenose College, University of Oxford. My Bachelor’s was in Physics & Philosophy, and my Master’s in Mathematical & Theoretical Physics. Aside from my research, I teach Physics to 1st year Natural Science students at Emmanuel College, Cambridge. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[I also tutor Maths & Physics!](/tutoring/)
+
+In a few weeks, this page will replace [the old design](https://www.jedburkat.com).
+
+***
