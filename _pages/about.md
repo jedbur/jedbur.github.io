@@ -10,18 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <div align="center">
-    <p> Cavendish Laboratory </p>
-    <p>JJ Thompson Avenue </p>
-    <p>CB3 0HE, Cambridge UK</p>
+    <p> Quantum Information Group <br> 
+    Cavendish Laboratory <br>
+    JJ Thompson Avenue <br>
+    CB3 0HE, Cambridge UK <br>
+    <tt> jbb55 [at] cam.ac.uk </tt> <p/> <br> 
     <p> &nbsp; </p>
     <p> &nbsp; </p>
     <p> &nbsp; </p>
-    <p> &nbsp; </p>
-    <p> &nbsp; </p>
-    <p> &nbsp; </p>
-    <p> &nbsp; </p>
-    <p> &nbsp; </p>
-
     </div>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -36,7 +32,5 @@ My main interests include Quantum Benchmarking and Group-Theoretic methods in Qu
 I was born in Krakow, and grew up in the UK. Prior to my PhD I attended Brasenose College, University of Oxford. My Bachelor’s was in Physics & Philosophy, and my Master’s in Mathematical & Theoretical Physics. Aside from my research, I teach Physics to 1st year Natural Science students at Emmanuel College, Cambridge. 
 
 [I also tutor Maths & Physics!](/tutoring/)
-
-In a few weeks, this page will replace [the old design](https://www.jedburkat.com).
 
 ***
