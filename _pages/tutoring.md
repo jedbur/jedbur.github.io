@@ -51,4 +51,4 @@ I like to stay immersed in physics: to me, problem-solving is both a career, and
 
 Unlike some tutors, I never spoon-feed: I will guide you through the syllabus, help when you get stuck, but the work is ultimately yours to put in — and by the end, the benefits will be yours to reap.
 
-<p style="text-align: center;"> <i> My rates start at £40ph. To get in touch for a free consultation, <a href = "mailto: jed.burkat@physics.com">send me an email!</a> </i></p>
+<p style="text-align: center;"> <i> My rates start at £40ph. To get in touch for a free consultation, <a href = "mailto: jed.burkat@physics.org">send me an email!</a> </i></p>
