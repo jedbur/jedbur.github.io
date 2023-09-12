@@ -20,8 +20,8 @@ pagination:
 
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1 class="post-title" style="font-size: 2.0rem;">{{ site.blog_name }}</h1>
+    <p class="post-description" style="font-size: 1.0rem;">{{ site.blog_description }}</p>
   </div>
   {% endif %}
 
@@ -77,11 +77,11 @@ pagination:
                     {% endif %}
                     {% assign year = post.date | date: "%Y" %}
 
-                    <p class="post-meta">
+                    <!-- <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
                       <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
                         <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
-                    </p>
+                    </p> -->
                   </div>
                 </div>
               </div>
@@ -123,15 +123,15 @@ pagination:
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
         {% endif %}
       </h3>
-      <p>{{ post.description }}</p>
+      <div style="padding-bottom: 0.4rem; font-size: 0.9rem">{{ post.description }}</div>
       <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
+        <!-- {{ read_time }} min read &nbsp; &middot; &nbsp; -->
         {{ post.date | date: '%B %-d, %Y' }}
         {%- if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {%- endif %}
-      </p>
-      <p class="post-tags">
+      <p>
+      <!-- <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
 
@@ -150,7 +150,7 @@ pagination:
               <i class="fas fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
               {% endfor %}
           {% endif %}
-    </p>
+    </p> -->
 {%- if post.thumbnail -%}
     </div>
   <div class="col-sm-3">

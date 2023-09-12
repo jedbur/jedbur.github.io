@@ -52,16 +52,6 @@
                 </a>
               </li>-->
 
-              {% if site.blog_nav_title %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
-                  {%- if page.url contains 'blog' -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
-              </li>
-              {%- endif %}
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
@@ -97,13 +87,28 @@
               {% endfor -%}
               {%- if site.enable_darkmode %}
 
-              <!-- Toogle theme mode -->
+              {% if site.blog_nav_title %}
+              <!-- Blog -->
+              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                  {%- if page.url contains 'blog' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+
+              <!-- Toogle theme mode. Modified to include social links -->
               <li class="toggle-container">
+                &nbsp;
+                <a id="navbar-social-icon" href="https://twitter.com/{{ site.twitter_username }}" target=”_blank”  title="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+                  &nbsp;
+                <a id="navbar-social-icon" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target=”_blank” title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
                 <button id="light-toggle" title="Change theme">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </button>
-              </li>
+              </div>
               {%- endif %}
             </ul>
           </div>

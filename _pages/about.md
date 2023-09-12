@@ -10,12 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <div align="center">
-    <p> Quantum Information Group <br> 
-    Cavendish Laboratory <br>
+    <p> Cavendish Laboratory <br>
     JJ Thompson Avenue <br>
     CB3 0HE, Cambridge UK <br>
     <tt> jbb55 [at] cam.ac.uk </tt> <p/> <br> 
-    <p> &nbsp; </p>
     <p> &nbsp; </p>
     <p> &nbsp; </p>
     </div>
@@ -25,12 +23,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year PhD Student in the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk) at the University of Cambridge, working in collaboration with Dr Sergii Strelchuk at DAMPT. My supervisor is Professor Crispin Barnes. 
+I am a 2nd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk) in collaboration with Dr Sergii Strelchuk at DAMPT. My supervisor is Professor Crispin Barnes.
 
 My main interests include Quantum Benchmarking and Group-Theoretic methods in Quantum Computing. In particular, I am currently researching lightweight algorithms for calculating gate fidelities on near-term quantum devices. 
 
-I was born in Krakow, and grew up in the UK. Prior to my PhD I attended Brasenose College, University of Oxford. My Bachelor’s was in Physics & Philosophy, and my Master’s in Mathematical & Theoretical Physics. Aside from my research, I teach Physics to 1st year Natural Science students at Emmanuel College, Cambridge. 
+I was born in Krakow, and have lived in the UK since 2011. Prior to my PhD I attended Brasenose College, Oxford, where I obtained a BA in Physics & Philosophy followed by a Master’s in Mathematical & Theoretical Physics.
 
-[I also tutor Maths & Physics!](/tutoring/)
+Aside from my research, I teach the Physics IA course at Emmanuel College, Cambridge and also [offer private tutoring.](/tutoring)
 
 ***

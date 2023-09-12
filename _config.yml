@@ -6,7 +6,7 @@ title: Jed Burkat # the website title (if blank, full name will be used instead)
 first_name: Jedrzej
 middle_name: B.
 last_name: Burkat
-email: jbb55@cam.ac.uk
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Jed Burkat, PhD student at the University of Cambridge.
 footer_text: >
@@ -72,9 +72,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: jedburkat # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: jedrzej-burkat-b60b74218 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -122,15 +122,15 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # blog_name will be displayed in your blog page
-blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 # Currently hidden; add "Blog" to the blog_name and blog_nav_title to show
-blog_description: #A simple blog with some occasional thoughts.
-permalink: #/blog/:year/:title/
+blog_description: Every now and then, I try to write something here - mostly about my research, but also about other things that I find interesting.
+permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: false
+pagination: 
+  enabled: true
 
 related_blog_posts:
   enabled: false
@@ -160,8 +160,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
