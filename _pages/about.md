@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk) in collaboration with Dr Sergii Strelchuk at DAMPT. My supervisor is Professor Crispin Barnes.
+I am a 2nd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk) in collaboration with Dr Sergii Strelchuk at DAMTP. My supervisor is Professor Crispin Barnes.
 
 My main interests include Quantum Benchmarking and Group-Theoretic methods in Quantum Computing. In particular, I am currently researching lightweight algorithms for calculating gate fidelities on near-term quantum devices. 
 
