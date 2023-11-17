@@ -17,7 +17,10 @@ Tuesdays, Old JCR:
 *Do 6 questions per week. Email scanned work as one file in .pdf format to jed.burkat@physics.org by Monday midnight.*
 
 Weeks 1-4: Dynamics:
-[Problem Set](/assets/pdf/Dynamics_Problems.pdf), [Additional Problems](/assets/pdf/Dynamics_Additional_Problems.pdf), [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+[Problem Set](/assets/pdf/Dynamics_Problems.pdf) \| [Additional Problems](/assets/pdf/Dynamics_Additional_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+
+Weeks 5-8: Rotational Dynamics & Special Relativity:
+[Problem Set](/assets/pdf/RM_SR_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
 
 *** 
 

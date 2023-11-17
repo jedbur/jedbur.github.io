@@ -31,4 +31,8 @@ I was born in Krakow, and have lived in the UK since 2011. Prior to my PhD I att
 
 Aside from my research, I teach the Physics IA course at Emmanuel College, Cambridge and also [offer private tutoring.](/tutoring)
 
+*Pictured: me at the Fasori Evangélikus Gimnázium in Budapest - the school attended by Wigner, Haar and Von Neumann in the 20<sup>th</sup> century.*
+
+&nbsp;
+
 ***
