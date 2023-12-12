@@ -60,7 +60,7 @@ $$\begin{aligned} \frac{d x_f}{d \theta} &= - \frac{v^2 \sin \theta}{g} \left( \
 
 To make things easier, we will write $$\alpha = 2gH/v^2$$. We then divide by $$-v^2/g$$, and move the second term to the RHS. After factorising in terms of $$\sin \theta$$, $$\cos \theta$$, we get:
 
-$$\begin{aligned} \sin \theta \left( 1 + \sqrt{ 1 + \alpha \ \text{cosec}^2 \theta } \right) &= \cos^2 \theta \left( 1 + \frac{\sin \theta}{\sqrt{ \sin^2 \theta + \alpha }} \right) \nonumber \\ &= \cos^2 \theta \left( 1 + \frac{1}{\sqrt{ 1 + \alpha \ \text{cosec}^2 \theta }} \right) \nonumber \\ &= \cos^2 \theta \left( \frac{1 + \sqrt{ 1 + \alpha \ \text{cosec}^2 \theta } }{\sqrt{ 1 + \alpha \ \text{cosec}^2 \theta }} \right). \nonumber \end{aligned}$$
+$$\begin{aligned} \sin^2 \theta \left( 1 + \sqrt{ 1 + \alpha \ \text{cosec}^2 \theta } \right) &= \cos^2 \theta \left( 1 + \frac{\sin \theta}{\sqrt{ \sin^2 \theta + \alpha }} \right) \nonumber \\ &= \cos^2 \theta \left( 1 + \frac{1}{\sqrt{ 1 + \alpha \ \text{cosec}^2 \theta }} \right) \nonumber \\ &= \cos^2 \theta \left( \frac{1 + \sqrt{ 1 + \alpha \ \text{cosec}^2 \theta } }{\sqrt{ 1 + \alpha \ \text{cosec}^2 \theta }} \right). \nonumber \end{aligned}$$
 
 Which we rearrange to get:
 
