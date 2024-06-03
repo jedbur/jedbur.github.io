@@ -10,9 +10,9 @@ nav_order: 1
 #### Natural Science Tripos Part IA: Physics
 
 Tuesdays, Camden House Drawing Room: 
-* 14:00-15:00: Ben R, Jacob, Maddy
-* 15:00-16:00: Ben I, Rohan
-* 16:00-17:00: Luke, Daniele
+* 13:00-14:00: Ben R, Jacob, Maddy
+* 14:00-15:00: Ben I, Rohan
+* 15:00-16:00: Luke, Daniele
 
 *Do 6 questions per week. Email scanned work as one file in .pdf format to jed.burkat@physics.org by Monday midnight.*
 
@@ -27,6 +27,9 @@ Lent Weeks 1-4: Oscillating Systems:
 
 Lent Weeks 5-8: Waves and Quantum Waves:
 [Problem Set](/assets/pdf/Waves_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+
+Easter Weeks 1-4: Gravitational and Electromagnetic Fields:
+[Problem Set](/assets/pdf/Fields_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
 
 &nbsp;
 

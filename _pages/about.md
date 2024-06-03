@@ -23,13 +23,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk) in collaboration with Dr Sergii Strelchuk at DAMTP. My supervisor is Professor Crispin Barnes.
+I am a 2nd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk). I am co-supervised by [Dr Sergii Strelchuk](https://www.maths.cam.ac.uk/person/ss870) (at DAMPT) and [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc).
 
-My main interests include Quantum Benchmarking and Group-Theoretic methods in Quantum Computing. In particular, I am currently researching lightweight algorithms for calculating gate fidelities on near-term quantum devices. 
+My main interests include quantum algorithms and group-theoretic methods in quantum computing. In particular, I am interested in lightweight benchmarking protocols for restricted computational models (such as [Matchgate Circuits](https://arxiv.org/abs/2404.07974)), as well as the computational models themselves (such as Permutational Quantum Computing, or Kirkwood-Dirac quasiprobability distributions).
 
 I was born in Krakow, and have lived in the UK since 2011. Prior to my PhD I attended Brasenose College, Oxford, where I obtained a BA in Physics & Philosophy followed by a Master’s in Mathematical & Theoretical Physics.
 
-Aside from my research, I teach the Physics IA course at Emmanuel College, Cambridge and also [offer private tutoring.](/tutoring)
+Aside from my research I supervise the Physics IA course at Emmanuel College, as well as the Mathematics Part II course in Quantum Information and Computation. I also [offer private tutoring.](/tutoring)
 
 *Pictured: me at the Fasori Evangélikus Gimnázium in Budapest - the school attended by Wigner, Haar and Von Neumann in the 20<sup>th</sup> century.*
 
