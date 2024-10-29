@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk). I am co-supervised by [Dr Sergii Strelchuk](https://www.maths.cam.ac.uk/person/ss870) (at DAMPT) and [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc).
+I am a 3rd year PhD Student at St John's College, Cambridge, working at the [Cavendish Laboratory Quantum Information Group](https://www.qi.phy.cam.ac.uk). I am co-supervised by [Dr Sergii Strelchuk](https://www.maths.cam.ac.uk/person/ss870) (at DAMPT/Oxford) and [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc).
 
 My main interests include quantum algorithms and group-theoretic methods in quantum computing. In particular, I am interested in lightweight benchmarking protocols for restricted computational models (such as [Matchgate Circuits](https://arxiv.org/abs/2404.07974)), as well as the computational models themselves (such as Permutational Quantum Computing, or Kirkwood-Dirac quasiprobability distributions).
 
