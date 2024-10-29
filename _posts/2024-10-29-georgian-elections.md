@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identifying statistical irregularities in the 2024 Georgian Parliamentary Elections
-date: 2023-10-29 12:00:00
+date: 2024-10-29 18:00:00
 description:
 tags: 
 categories: 
