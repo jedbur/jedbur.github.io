@@ -9,27 +9,27 @@ nav_order: 1
 
 #### Natural Science Tripos Part IA: Physics
 
-Tuesdays, Camden House Drawing Room: 
-* 13:00-14:00: Ben R, Jacob, Maddy
-* 14:00-15:00: Ben I, Rohan
-* 15:00-16:00: Luke, Daniele
+Wednesdays, Emmanuel House 9: 
+* 16:00-17:00: Ira, Sky, Stanley    
+* 17:00-18:00: Ethan, Isabelle, Avinash
+* 18:00-19:00: Iris, Haya
 
-*Do 6 questions per week. Email scanned work as one file in .pdf format to jed.burkat@physics.org by Monday midnight.*
+*Do 6 questions per week. Email scanned work as one file in .pdf format to jed.burkat@physics.org by Tuesday, 9PM.*
 
 Michaelmas Weeks 1-4: Dynamics:
-[Problem Set](/assets/pdf/Dynamics_Problems.pdf) \| [Additional Problems](/assets/pdf/Dynamics_Additional_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+[Problem Set](/assets/pdf/Dynamics_Problems.pdf) \| [Additional Problems](/assets/pdf/Dynamics_Additional_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions%202024-25?csf=1&web=1&e=7H0Ohi)
 
 Michaelmas Weeks 5-8: Rotational Dynamics & Special Relativity:
-[Problem Set](/assets/pdf/RM_SR_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+[Problem Set](/assets/pdf/RM_SR_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions%202024-25?csf=1&web=1&e=7H0Ohi)
 
 Lent Weeks 1-4: Oscillating Systems:
-[Problem Set](/assets/pdf/Oscillating_Systems_Problems.pdf) \| [Additional Problems](/assets/pdf/Oscillating_Systems_Additional_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+[Problem Set](/assets/pdf/Oscillating_Systems_Problems.pdf) \| [Additional Problems](/assets/pdf/Oscillating_Systems_Additional_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions%202024-25?csf=1&web=1&e=7H0Ohi)
 
 Lent Weeks 5-8: Waves and Quantum Waves:
-[Problem Set](/assets/pdf/Waves_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+[Problem Set](/assets/pdf/Waves_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions%202024-25?csf=1&web=1&e=7H0Ohi)
 
 Easter Weeks 1-4: Gravitational and Electromagnetic Fields:
-[Problem Set](/assets/pdf/Fields_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions)
+[Problem Set](/assets/pdf/Fields_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions%202024-25?csf=1&web=1&e=7H0Ohi)
 
 &nbsp;
 
