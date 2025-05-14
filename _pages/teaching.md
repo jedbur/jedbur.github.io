@@ -9,12 +9,12 @@ nav_order: 1
 
 #### Natural Science Tripos Part IA: Physics
 
-Wednesdays, Emmanuel House 9: 
+Wednesdays, Emmanuel College:
 * 16:00-17:00: Ira, Sky, Stanley    
 * 17:00-18:00: Ethan, Isabelle, Avinash
 * 18:00-19:00: Iris, Haya
 
-*Do 6 questions per week. Email scanned work as one file in .pdf format to jed.burkat@physics.org by Tuesday, 9PM.*
+*Do 6 questions per week. Email scanned work as one file in .pdf format by Tuesday evening.*
 
 Michaelmas Weeks 1-4: Dynamics:
 [Problem Set](/assets/pdf/Dynamics_Problems.pdf) \| [Additional Problems](/assets/pdf/Dynamics_Additional_Problems.pdf) \| [Solutions](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/jbb55_cam_ac_uk/Documents/Physics%20IA%20Solutions%202024-25?csf=1&web=1&e=7H0Ohi)
@@ -57,8 +57,6 @@ Some very useful notes by Toby Adkins (borrowed from "the other place"):
 ***
 
 #### Mathematical Tripos Part II: Quantum Information and Computation
-
-Mott Building, Cavendish Laboratory:
 
 Lent Week 3: [Problem Set 1](/assets/pdf/QI_QC_1.pdf)
 

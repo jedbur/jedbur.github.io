@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimising projection angles, with cliffs
+title: Optimising Projection Angles, with Cliffs
 date: 2023-12-12 12:00:00
 description: Building on a common physics problem 
 tags: 

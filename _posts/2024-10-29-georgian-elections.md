@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identifying statistical irregularities in the 2024 Georgian Parliamentary Elections
+title: Identifying Statistical Irregularities in the 2024 Georgian Parliamentary Elections
 date: 2024-10-29 18:00:00
 description:
 tags: 
@@ -10,7 +10,7 @@ categories:
 
 The 2024 Georgian Parliamentary elections were held last Saturday, October 26th. Since the moment polls opened, numerous accounts of malpractice have been reported: international observers have identified instances of vote-buying, ballot stuffing, election carousels, as well as intimidation and violence against the observers themselves. The opposition party and president Salome Zourabichvili have denied the results, and called for a re-run of the elections and an investigation into the irregularities. The ruling Georgian Dream (GD) party maintains everything was carried out fairly and honestly. 
 
-Very often, fraudulent elections can be identified through various statistical 'fingerprints' in the reported results. The Georgian Central Election Comission (CEC) has made the results publically available, and there has been some excellent analysis done already; one popular observation (first made by Roman Udot [here](https://x.com/romanik_/status/1850634786018066728) and Levan Kvirkvelia [here](https://x.com/LevanKvirkvelia/status/1850761181599858792)) is that the distribution of support for the ruling party (expressed as the % of votes cast going to GD) across polling stations is almost -- but not quite -- a normal distribution, with a 'Russian tail' in the high-GD-support end of the curve: a pattern which suggests an abnormally high number of strongly pro-GD polling results. This is [especially prominent](https://x.com/romanik_/status/1850634766279962994) when the data from rural areas is isolated, i.e. polling stations from big cities like Tbilisi, Batumi or Kutaisi are excluded. By no coincidence, such rural regions are exactly where the majority of electoral fraud reports have come from. This is pretty much in line with what has been reported by independent observers, and I highly recommend reading the original threads for more details.
+Very often, fraudulent elections can be identified through various statistical 'fingerprints' in the reported results. The Georgian Central Election Comission (CEC) has made the results publically available, and there has been some excellent analysis done already; one popular observation (first made by Roman Udot [here](https://x.com/romanik_/status/1850634786018066728) and Levan Kvirkvelia [here](https://x.com/LevanKvirkvelia/status/1850761181599858792)) is that the distribution of support for the ruling party (expressed as the % of votes cast going to GD) across polling stations is almost -- but not quite -- a normal distribution, with a 'tail' in the high-GD-support end of the curve: a pattern which suggests an abnormally high number of strongly pro-GD polling results. This is [especially prominent](https://x.com/romanik_/status/1850634766279962994) when the data from rural areas is isolated, i.e. polling stations from big cities like Tbilisi, Batumi or Kutaisi are excluded. By no coincidence, such rural regions are exactly where the majority of electoral fraud reports have come from. This is pretty much in line with what has been reported by independent observers, and I highly recommend reading the original threads for more details.
 
 <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/ge2024-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=false width="80%" height="80%" %}
@@ -19,7 +19,7 @@ Very often, fraudulent elections can be identified through various statistical '
     Source: <a href="https://x.com/EuropeElects/status/1851183540991406458" > Europe Elects on X/Twitter. </a>
 </div>
 
-Intrigued by the discrepancies in rural & urban electoral data, I have carried out some further analysis, to see if we can find more smoking guns of fraud. The electoral dataset I used is available [here](https://www.electoral.graphics/en-us/Elections-and-Datasets/Navigator-for-Elections/with-datasets/georgia-the-parliament-2024), and the code I used to make the plots is available [on my github](https://github.com/jedbur/ge2024/). I am neither a statistician nor a data scientist, however the beauty of plots is that those more experienced than me can use them to draw their own conclusions. 
+Intrigued by the discrepancies in rural & urban electoral data I have carried out some further analysis, to see if we can infer anything else. The electoral dataset I used is available [here](https://www.electoral.graphics/en-us/Elections-and-Datasets/Navigator-for-Elections/with-datasets/georgia-the-parliament-2024), and the code I used to make the plots is available [here](https://github.com/jedbur/ge2024/). I am neither a statistician nor a data scientist, however the beauty of plots is that those more experienced than me can use them to draw their own conclusions. 
 
 &nbsp;
 
@@ -27,7 +27,7 @@ Intrigued by the discrepancies in rural & urban electoral data, I have carried o
 
 Scatter plots of ruling party support against turnout are one common way of identifying signs of voter fraud. To make one, take the reported results from every polling station, and plot each report as a dot, with voter turnout (votes cast / registered voters) on the $$x$$-axis, and ruling party support (votes for the ruling party / votes cast) on the $$y$$-axis.
 
-In a fair election, we would typically expect no correlation between the two -- the proportion of votes each party gets should be (on average) the same regardless of how many people came out to vote in a particular constituency. However, observing a positive correlation between the two could suggest fraud took place: if the ruling party is stuffing boxes or sending people to vote multiple times, this will raise the turnout rate in the affected polling stations. Since the additional votes then mostly go to the cheating party, their support rate also increases. This technique has been used, for example, in [this political science paper](https://www.pnas.org/doi/10.1073/pnas.1210722109) (as well as [this one](https://doi.org/10.1111/j.1740-9713.2016.00936.x)) to detect systematic irregularities in elections. In the case of Russian elections, there is an additional artefact in the scatter plots. The below graphic from the Economist shows that on top of the strong turnout-support correlation, the scatter plot of two decades' worth of Russian electoral data features prominent 'gridlines', suggesting that polling stations systematically make up the reported vote totals to fit predetermined rates of turnout and support.
+In a fair election, we would typically expect no correlation between the two -- the proportion of votes each party gets should be (on average) the same regardless of how many people came out to vote in a particular constituency. However, observing a positive correlation between the two could suggest fraud took place: if a candidate is stuffing boxes or sending people to vote multiple times, this will raise the turnout rate in the affected polling stations. Since the additional votes then mostly go to the cheating candidate, their support rate also increases. This technique has been used, for example, in [this political science paper](https://www.pnas.org/doi/10.1073/pnas.1210722109) (as well as [this one](https://doi.org/10.1111/j.1740-9713.2016.00936.x)) to detect systematic irregularities in elections. In the case of Russian elections, there is an additional artefact in the scatter plots. The below graphic from the Economist shows that on top of the strong turnout-support correlation, the scatter plot of two decades' worth of Russian electoral data features prominent 'gridlines', suggesting that polling stations systematically make up the reported vote totals to fit predetermined rates of turnout and support.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -80,7 +80,7 @@ Though hard to articulate exactly, there seems to be a trend there: in one regio
     Scatter plots (top) and heatmaps (bottom) of the Georgian electoral data, separated by urban (left) and rural (right) areas.
 </div>
 
-Of course, trends like this can be observed in fair elections too, whenever there is a strong and successful voting drive for a particular party. Usually, such trends are explainable by other trends observed around the election. In the case of Georgia, however, these patterns combined with the numerous reports of fraud seem to be a consistent story: ***it looks like Georgian Dream has been artificially inflating their vote share in rural areas.***
+Of course, trends like this can be observed in fair elections too, whenever there is a strong and successful voting drive for a particular party. Usually, they are explainable through other phenomena observed around the election. In the case of Georgia, however, these patterns combined with the numerous reports of fraud seem to form a consistent story: ***it looks like Georgian Dream has been artificially inflating their vote share in rural areas.***
 
 &nbsp;
 
@@ -118,7 +118,7 @@ It mostly looks like the data follows Benford's Law. However, some political sci
     </div>
 </div>
 
-To me, for the rural data it mostly looks like the second digit distribution also adheres to Benford's law. This does not rule out fraud, and in fact ballot stuffing can in principle lead to a 'naturally' distributed dataset. On the other hand, there seems to be something strange going on in urban areas, where second digits '1' and '4' are severely overrepresented, whilst '3', '5' and '7' are underrepresented. In my view, with 318 data points this is not necessarily a statistical fluke, and could be indicative of some kind of manipulation. It is far beyond my expertise to investigate it further, but I hope somebody with experience will take a better look. 
+To me, for the rural data it mostly looks like the second digit distribution also adheres to Benford's law. This does not rule out fraud, and in fact ballot stuffing can in principle lead to a 'naturally' distributed dataset. On the other hand, there seems to be something strange going on in urban areas, where second digits '1' and '4' are severely overrepresented, whilst '3', '5' and '7' are underrepresented. In my view, with 318 data points this is not necessarily a statistical fluke. It is far beyond my expertise to investigate it further, but I hope somebody with experience will take a better look. 
 
 &nbsp;
 
